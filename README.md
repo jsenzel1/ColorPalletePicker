@@ -9,7 +9,7 @@ Color Palette picker is an experimental image processing program
 	-Drag and drop another image and the program will recreate that image using 
      	 Only the previously selected colors
 
-	-There are some sample images to try out in the data folder but any image will     work
+	-There are some sample images to try out in the data folder but any image will work
 
 -If you download Processing and open the .pde file for the project there are some fun settings to play with like drawing pixels as circles, pixel size, randomization, and a semi functional HSB mode
 Just play with the variables at the top of the code (they’re labelled for you)
